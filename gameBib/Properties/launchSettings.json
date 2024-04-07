@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "gameBib (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "gameBib (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
